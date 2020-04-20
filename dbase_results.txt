@@ -1,0 +1,42 @@
+|| 0 | 0.0 | E | A terrible score, how about you retry || 1 | 20.0 | D | A bad score, how about you retry
+|| 3 | 60.0 | B | A good score || 5 | 100.0 | A* | An amazing score, retry with a harder difficulty || 0 | 0.0 | E | A terrible score, how about you retry 
+|| 4 | 80.0 | A | A very good score || 1 | 20.0 | D | A bad score, how about you retry
+|| 4 | 80.0 | A | A very good score || 5 | 100.0 | A* | An amazing score, retry with a harder difficulty
+|| 1 | 20.0 | D | A bad score, how about you retry || 1 | 20.0 | D | A bad score, how about you retry
+|| 2 | 40.0 | C | An alright score, how about you retry || 0 | 0.0 | E | A terrible score, how about you retry
+|| 5 | 100.0 | A* | An amazing score, retry with a harder difficulty || 0 | 0.0 | E | A terrible score, how about you retry
+|| 0 | 0.0 | E | A terrible score, how about you retry || 2 | 40.0 | C | An alright score, how about you retry
+|| 3 | 60.0 | B | A good score || 2 | 40.0 | C | An alright score, how about you retry
+|| 4 | 80.0 | A | A very good score || 1 | 20.0 | D | A bad score, how about you retry
+|| 4 | 80.0 | A | A very good score || 0 | 0.0 | E | A terrible score, how about you retry
+|| 1 | 20.0 | D | A bad score, how about you retry || 0 | 0.0 | E | A terrible score, how about you retry
+|| 2 | 40.0 | C | An alright score, how about you retry || 0 | 0.0 | E | A terrible score, how about you retry
+|| 5 | 100.0 | A* | An amazing score, retry with a harder difficulty || 5 | 100.0 | A* | An amazing score, retry with a harder difficulty
+|| 0 | 0.0 | E | A terrible score, how about you retry || 1 | 20.0 | D | A bad score, how about you retry
+|| 3 | 60.0 | B | A good score || 1 | 20.0 | D | A bad score, how about you retry
+|| 4 | 80.0 | A | A very good score || 1 | 20.0 | D | A bad score, how about you retry
+|| 4 | 80.0 | A | A very good score || 1 | 20.0 | D | A bad score, how about you retry
+|| 1 | 20.0 | D | A bad score, how about you retry || 2 | 40.0 | C | An alright score, how about you retry
+|| 2 | 40.0 | C | An alright score, how about you retry || 5 | 100.0 | A* | An amazing score, retry with a harder difficulty
+|| 5 | 100.0 | A* | An amazing score, retry with a harder difficulty || 0 | 0.0 | E | A terrible score, how about you retry
+|| 0 | 0.0 | E | A terrible score, how about you retry || 2 | 40.0 | C | An alright score, how about you retry
+|| 3 | 60.0 | B | A good score || 2 | 40.0 | C | An alright score, how about you retry
+|| 4 | 80.0 | A | A very good score || 5 | 100.0 | A* | An amazing score, retry with a harder difficulty
+|| 4 | 80.0 | A | A very good score || 0 | 0.0 | E | A terrible score, how about you retry
+|| 1 | 20.0 | D | A bad score, how about you retry || 0 | 0.0 | E | A terrible score, how about you retry
+|| 2 | 40.0 | C | An alright score, how about you retry || 5 | 100.0 | A* | An amazing score, retry with a harder difficulty
+|| 5 | 100.0 | A* | An amazing score, retry with a harder difficulty || 0 | 0.0 | E | A terrible score, how about you retry
+|| 0 | 0.0 | E | A terrible score, how about you retry  || 0 | 0.0 | E | A terrible score, how about you retry
+|| 3 | 60.0 | B | A good score || 1 | 20.0 | D | A bad score, how about you retry
+|| 4 | 80.0 | A | A very good score || 0 | 0.0 | E | A terrible score, how about you retry
+|| 4 | 80.0 | A | A very good score || 1 | 20.0 | D | A bad score, how about you retry
+|| 1 | 20.0 | D | A bad score, how about you retry || 1 | 20.0 | D | A bad score, how about you retry
+|| 2 | 40.0 | C | An alright score, how about you retry || 5 | 100.0 | A* | An amazing score, retry with a harder difficulty
+|| 5 | 100.0 | A* | An amazing score, retry with a harder difficulty || 0 | 0.0 | E | A terrible score, how about you retry
+|| 0 | 0.0 | E | A terrible score, how about you retry  || 0 | 0.0 | E | A terrible score, how about you retry
+|| 3 | 60.0 | B | A good score || 1 | 20.0 | D | A bad score, how about you retry || 0 | 0.0 | E | A terrible score, how about you retry
+|| 4 | 80.0 | A | A very good score || 1 | 20.0 | D | A bad score, how about you retry || 5 | 100.0 | A* | An amazing score, retry with a harder difficulty
+|| 4 | 80.0 | A | A very good score
+|| 1 | 20.0 | D | A bad score, how about you retry
+|| 2 | 40.0 | C | An alright score, how about you retry
+|| 5 | 100.0 | A* | An amazing score, retry with a harder difficulty

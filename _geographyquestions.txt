@@ -1,0 +1,29 @@
+What is the capital of England?
+London
+Berlin
+Paris
+Madrid
+
+What is the capital of France?
+Paris
+London
+Madrid
+Berlin
+
+What is the capital of Spain?
+Madrid
+London
+Berlin
+Paris
+
+What is the capital of Germany?
+Berlin
+Rome
+Madrid
+London
+
+What is the capital of Italy?
+Rome
+Beijing
+Tokyo
+Paris
